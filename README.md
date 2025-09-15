@@ -1,8 +1,3 @@
-# Student-Commute-Optimizer
-Here is a detailed `README.md` file for your GitHub repository, outlining the technical solution for the "Student Commute Optimizer." This document is designed to be comprehensive, explaining the problem, the proposed solution, architecture, and design trade-offs.
-
------
-
 ### **Student Commute Optimizer**
 
 ####  Project Overview**
